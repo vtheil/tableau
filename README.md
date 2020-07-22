@@ -10,3 +10,10 @@ Visualizations of artist and song data.
 
 Demonstration of Tableau map function for geographical data.
 
+## [Sales Dashboard](Supermarket/README.md)
+
+Building a dashboard from scratch.
+
+## [Airbnb Dashboard](Airbnb/README.md)
+
+Creating a new dashboard to explore dashboard functions further.
